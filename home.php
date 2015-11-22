@@ -112,14 +112,14 @@ require 'header.php';
         <!-- Projects Row -->
         <div class="row">
             <div class="col-md-3 portfolio-item">
-                <a href="eventmap.php">
+                <a href="eventmapadap.php">
                     <img class="img-responsive" src="placeholder/s2.png" alt="">
                 </a>
             </div>
                 <div class = "col-content">
                     <table>
                         <tr></td>
-                    <a href="eventmap.php"><h2>AGAP Foundation Anniversary</h2></a>
+                    <a href="eventmapadap.php"><h2>AGAP Foundation Anniversary</h2></a>
                     <p>AGAP's Foundation yearly event organized by AGAP, co-sponsored by Org X and Org Y.<br>
                         Every year, a school that is recieving aid from the AGAP Foundation will serve<br>
                         Host for our yearly event.<br><br>

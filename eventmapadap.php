@@ -86,14 +86,10 @@ require 'header.php';
         <hr>
 		<table border = 0><tr>
 		<td>
-		<iframe scrolling = no height = 450px width = 450px src = 'map.php?lat=14.577106&long=121.047187&tit=Unang%20Hakbang'></iframe><br>
+		<iframe scrolling = no height = 450px width = 450px src = 'map.php?lat=14.64544050&long=121.048002&tit=AGAP%20Foundation'></iframe><br>
 				
 		</td>
-		<td><font size = 5px color = #995555>We invite everyone to our event this upcoming near future. We hope you could go. Please bring all smiles and enjoy the day when the day comes. 
-		<br>
-		<br>
-		
-		Contact Maria at : +63284792694</font></td>
+		<td>Please contact the organizers for more information</td>
 		</table>
 
         <hr>

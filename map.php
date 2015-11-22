@@ -15,14 +15,21 @@ function initMap() {
 	var lng = parseFloat(document.getElementById("lng").value);
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: lat, lng: lng},
-    zoom: 15
+    zoom: 19
   });
+  
+  var marker = new google.maps.Marker({
+  position : {lat: lat, lng: lng},
+  title: document.getElementById("tit").value
+  });
+  marker.setMap(map);
 }
 
 
     </script>
 	<input type="text" id = lat value="<?php echo $_GET['lat'];?>" disabled style="visibility:hidden;">		
 	<input type="text" id  = lng value="<?php echo $_GET['long'];?>" disabled style="visibility:hidden;">
+	<input type="text" id  = tit value="<?php echo $_GET['tit'];?>" disabled style="visibility:hidden;">
     <script async defer
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALHPDuAPZ6hGsLw54SKtVj237w-Mm035U&callback=initMap">
     </script>
