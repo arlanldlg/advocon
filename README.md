@@ -21,9 +21,9 @@ committing "Bayanihan" and make a difference in the Philippines.
 
 ![Imgur](http://i.imgur.com/ZHXPX6A.png)
 
-![Imgur](http://imgur.com/re6e2GK)
+![Imgur](http://i.imgur.com/re6e2GK.png)
 
-![Imgur](http://imgur.com/GkMZWdm)
+![Imgur](http://i.imgur.com/GkMZWdm.png)
 
 ## Tech and Data Used
 
