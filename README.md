@@ -28,6 +28,7 @@ committing "Bayanihan" and make a difference in the Philippines.
 ## Tech and Data Used
 
 -[Google Maps](https://developers.google.com/maps/?hl=en)
+
 -[Poverty Threshold and Incidence 1991-2012 ](http://data.gov.ph/catalogue/dataset/nscb-poverty-threshold-and-incidence-1991-to-2012)
 
 ## Credits
