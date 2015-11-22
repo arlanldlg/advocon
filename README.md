@@ -16,3 +16,23 @@ Why stop there, keep on planning little events that you and your friends could e
 without the aid of an outside foundation. Provided that you know who you're talking to.
 With Advocon, giving the extrahand that your fellow kabayan needs has never been easier. Join in 
 committing "Bayanihan" and make a difference in the Philippines.
+
+## Screenshots
+
+![<image 1 name>](url)
+
+![<image 2 name>](url)
+
+![<image 3 name>](url)
+
+## Tech and Data Used
+
+-[Google Maps](https://developers.google.com/maps/?hl=en)
+-[Poverty Threshold and Incidence 1991-2012 ](http://data.gov.ph/catalogue/dataset/nscb-poverty-threshold-and-incidence-1991-to-2012)
+
+## Credits
+
+- **Raven Silva** - Designer & Developer
+- **Rhendel Torrejos** - Designer & Developer
+- **Arlan Guevara** - Designer & Developer
+- **Ramon Rabusa** - Designer & Develoepr
