@@ -19,7 +19,7 @@ committing "Bayanihan" and make a difference in the Philippines.
 
 ## Screenshots
 
-![<image 1 name>](url)
+![Events Page](http://imgur.com/ZHXPX6A)
 
 ![<image 2 name>](url)
 
